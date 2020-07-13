@@ -1,0 +1,2 @@
+$(document).ready( function () { $('.table').DataTable();   var selecttag = document.getElementsByTagName("select");selecttag.classlist.add("form-control");} );
+
